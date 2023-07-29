@@ -1,8 +1,2 @@
-# ChangedMP
-### Warning
-This is the original game.
-You need the game on steam to play this.
-
-This game was made by: DragonSnow and Shizi.
-
-And tweaked by: Protosi And Mijo0x9.
+# ChangedMP (WIP)
+![ChangedWarning](https://github.com/Protoser/ChangedMP/assets/117673284/f25d9bf5-bf04-4c4c-81e8-a9429aae3e5e)
