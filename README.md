@@ -11,14 +11,18 @@ Why did we do this? To prevent piracy of the game.
 ## Setup
 In the folder you will find 2 .txt files. (id.txt and ip.txt)
 
-The id.txt is the id, every player should have thier own ID (unless you want bugs ^w^). (Numbers only)
+The id.txt is the id, every player should have their own ID (unless you want bugs ^w^). (Numbers only)
 
-The ip.txt is the IP of the server that you are trying to connect to. (LocalHost:6969 or "Ip of Pc you are connecting to":6969)
+In the ip.txt file you put the ip of the server you're connecting to. ([localhost / ip of server]:6969)
 
 ## Starting Server
-To start the server, run the file with the name "server.bat".
+To start the server, run the file with the name "server.bat". (Only host, not 2nd player)
+
+You have to have java installed on your system.
 
 The server should now start and run on your machine. (all computing devices with JAVA)
+
+The server automatically runs on port 6969 so you have to open the port on your router.
 
 ## Starting Game
 To start/run the game you need the game in steam and have steam running. (not game from steam)
