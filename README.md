@@ -26,4 +26,5 @@ The server automatically runs on port 6969 so you have to open the port on your 
 
 ## Starting Game
 To start/run the game you need the game in steam and have steam running. (not game from steam)
+
 After starting steam you can run the file with the name "Game.exe", this will launch the game on your device. (Windows only)
