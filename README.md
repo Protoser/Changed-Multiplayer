@@ -35,3 +35,6 @@ The server automatically runs on port 6969 so you have to open the port (tcp) on
 
 ## Starting Game
 Now with the server up and running you can go into steam and lauch changed. If you have no previous saves you cannot join a game so quickly go into the main menu and create a new game. 
+
+# Uninstall
+To uninstall the game just go to steam and verify the game files of changed
