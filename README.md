@@ -8,6 +8,10 @@ Why did we do this? To prevent piracy of the game.
 
 ![ChangedWarning](https://github.com/Protoser/ChangedMP/assets/117673284/f25d9bf5-bf04-4c4c-81e8-a9429aae3e5e)
 
+# Functionality
+
+In this version you can play with a second player! The movements are synced so you see what the other player is doing. You have your own saves and own progress. This could therefore be made for a challange to see who can make it through a level or the whole game the fastest. We are still working on syncing events so that lets say a player triggers something the other player experiences the consequences as well.
+
 # Links
 
 [ChangedMP Discord](https://discord.gg/e6n69Adfw4)
