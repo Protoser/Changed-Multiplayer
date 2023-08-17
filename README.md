@@ -21,9 +21,7 @@ In this version you can play with a second player (Only 2)! The movements are sy
 ## Setup
 Download the .zip files of the repository and extract files. Then replace all the files in your changed game folder from steam with those you downloaded. 
 
-In the Utils folder you will find 2 .txt files. (id.txt and ip.txt)
-
-The id.txt is the id, every player should have their own ID (unless you want bugs ^w^). (Numbers only)
+In the Utils folder you will find a ip.txt file.
 
 In the ip.txt file you put the ip of the server you're connecting to. ([localhost / ip of server]:6969)
 
