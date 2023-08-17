@@ -15,7 +15,9 @@ Why did we do this? To prevent piracy of the game.
 # How To Run Game/Server
 
 ## Setup
-In the folder you will find 2 .txt files. (id.txt and ip.txt)
+Download the .zip files of the repository and extract files. Then replace all the files in your changed game folder from steam with those you downloaded. 
+
+In the Utils folder you will find 2 .txt files. (id.txt and ip.txt)
 
 The id.txt is the id, every player should have their own ID (unless you want bugs ^w^). (Numbers only)
 
@@ -23,11 +25,11 @@ In the ip.txt file you put the ip of the server you're connecting to. ([localhos
 
 ## Starting Server
 
-To start the server, run the file with the name "server.bat". (Only host, not 2nd player)
+To start the server on Windows, run the file with the name "server.bat". (Only host, not 2nd player)
 
 You have to have java installed on your system.
 
-The server should now start and run on your machine. (all computing devices with JAVA)
+The server should now start and run on your machine.
 
 The server automatically runs on port 6969 so you have to open the port on your router.
 
