@@ -10,7 +10,7 @@ Why did we do this? To prevent piracy of the game.
 
 # Functionality
 
-In this version you can play with a second player! The movements are synced so you see what the other player is doing. You have your own saves and own progress. This could therefore be made for a challange to see who can make it through a level or the whole game the fastest. We are still working on syncing events so that lets say a player triggers something the other player experiences the consequences as well.
+In this version you can play with a second player (Only 2)! The movements are synced so you see what the other player is doing. You have your own saves and own progress. This could therefore be made for a challange to see who can make it through a level or the whole game the fastest. We are still working on syncing events so that lets say a player triggers something the other player experiences the consequences as well.
 
 # Links
 
