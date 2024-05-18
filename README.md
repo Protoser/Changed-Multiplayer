@@ -29,7 +29,7 @@ In the ip.txt file you put the ip of the server you're connecting to. ([localhos
 
 To start the server on Windows, run the file with the name "server.bat". (Only host, not 2nd player)
 
-You have to have java installed on your system.
+You have to have java17 installed on your system.
 
 The server should now start and run on your machine.
 
