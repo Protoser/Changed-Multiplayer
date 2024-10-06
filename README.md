@@ -40,3 +40,8 @@ Now with the server up and running you can go into steam and lauch changed. If y
 
 # Uninstall
 To uninstall the game just go to steam and verify the game files of changed
+
+
+
+### Support
+As of now, beta 0.1 is the "finished" version. We kinda left this project because there wheren't that many people looking for a changed multiplayer mod.
