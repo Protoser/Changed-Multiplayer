@@ -29,19 +29,20 @@ In the ip.txt file you put the ip of the server you're connecting to. ([localhos
 
 To start the server on Windows, run the file with the name "server.bat". (Only host, not 2nd player)
 
-You have to have java17 installed on your system.
+You need to have java17 installed on your system.
 
 The server should now start and run on your machine.
 
 The server automatically runs on port 6969 so you have to open the port (tcp) on your router.
 
 ## Starting Game
-Now with the server up and running you can go into steam and lauch changed. If you have no previous saves you cannot join a game so quickly go into the main menu and create a new game. 
+Now with the server up and running you can go into steam and launch changed. If you have no previous saves you cannot join a game so you have to quickly go into the main menu and create a new game. 
+(Extra, you need to be inn the same "world" or "level" then the other person to see them, this is so players could race to the end or play independent of other players)
 
 # Uninstall
 To uninstall the game just go to steam and verify the game files of changed
 
 
 
-### Support
+# Support
 As of now, beta 0.1 is the "finished" version. We kinda left this project because there wheren't that many people looking for a changed multiplayer mod.
